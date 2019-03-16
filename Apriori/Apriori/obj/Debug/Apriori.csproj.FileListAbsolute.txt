@@ -1,0 +1,10 @@
+C:\Users\recep\source\repos\Apriori\Apriori\bin\Debug\Apriori.exe.config
+C:\Users\recep\source\repos\Apriori\Apriori\bin\Debug\Apriori.exe
+C:\Users\recep\source\repos\Apriori\Apriori\bin\Debug\Apriori.pdb
+C:\Users\recep\source\repos\Apriori\Apriori\obj\Debug\Apriori.csprojAssemblyReference.cache
+C:\Users\recep\source\repos\Apriori\Apriori\obj\Debug\Apriori.Form1.resources
+C:\Users\recep\source\repos\Apriori\Apriori\obj\Debug\Apriori.Properties.Resources.resources
+C:\Users\recep\source\repos\Apriori\Apriori\obj\Debug\Apriori.csproj.GenerateResource.cache
+C:\Users\recep\source\repos\Apriori\Apriori\obj\Debug\Apriori.csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\Apriori\Apriori\obj\Debug\Apriori.exe
+C:\Users\recep\source\repos\Apriori\Apriori\obj\Debug\Apriori.pdb

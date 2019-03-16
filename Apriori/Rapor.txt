@@ -1,0 +1,4 @@
+Verileri dosyadan okuduktan sonra ? olan Missing valuelarý bulup
+sayýsal olan eksik verilere ortalama, sözel olan eksik verileri oranlarýna göre tamamlama yaptým.
+Ardýndan sayýsal olan verileri iliþkilendirme kurabilmek için kutulama algoritmasý ile 4 gruba ayýrarak yeniden isimlendirdim.
+Verileri iþlemeye hazýr hale getirdikten sonra apriori algoritmasý yardýmýyla iliþkilendirme kurmayý hýzlandýrdým.

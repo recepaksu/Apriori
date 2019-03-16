@@ -1,0 +1,11 @@
+Data Quality Rating,Functional Size,Adjusted Function Points,Total Work Effort,Development Type,Package Customisation,Architecture,Web development,Development Platform,Language Type,Used Methodology,Resource Level
+B,895,823,36225,Enhancement,No,Stand alone,NonWeb,MF,ApG,Yes,4
+A,266,223,3023,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,1374,1223,66600,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+A,454,499,2310,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,0,3411,82968,New Development,No,Stand alone,NonWeb,MR,3GL,Yes,4
+B,550,594,24664,New Development,No,Client server,NonWeb,MR,4GL,Yes,1
+B,228,228,1362,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,2777,2944,21625,New Development,No,Multi-tier,NonWeb,MF,3GL,No,1
+B,128,145,2200,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+D,4183,4183,3115,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,2
